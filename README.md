@@ -1,5 +1,3 @@
-<img width="1024" height="1536" alt="ChatGPT Image Oct 7, 2025, 04_12_57 PM" src="https://github.com/user-attachments/assets/c4ee8b50-bcac-4f7d-9778-b611c734948d" />Overview
-
 The Invoicing ROI Simulator will be a single-page web application that allows users to input key invoicing metrics, view instant ROI simulations, save scenarios, and download reports. It follows a client–server architecture with a RESTful API and a connected database for persistence.
 
 Technologies & Frameworks
